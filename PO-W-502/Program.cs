@@ -1,4 +1,4 @@
-﻿//Autor: mgr.inż. Piotr Bilski
+﻿// Autor: mgr.inż. Piotr Bilski
 // Programowanie Obiektowe
 
 using System;
