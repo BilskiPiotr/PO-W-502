@@ -51,6 +51,7 @@ namespace PO_W_502
             Counting wynik = fig1 + fig2 - 2;
 
             // Co tak naprawdę zwróci nam to polecenie?
+            // Jakia będzie efekt uruchomienia tego programu w takiej właśnie wersji?
             Console.WriteLine("\n\n  Wynik obliczeń to: " + wynik);
             Console.ReadKey();
         }
